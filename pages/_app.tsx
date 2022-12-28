@@ -31,9 +31,9 @@ export default function App({ Component, pageProps }: AppProps) {
           <ModalContextProvider>
             <Header />
             <Component {...pageProps} />
+            <Footer />
             <CartModal />
             <CheckoutModal />
-            <Footer />
             <Overlay />
           </ModalContextProvider>
         </Provider>

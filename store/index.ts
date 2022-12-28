@@ -1,6 +1,6 @@
 import { configureStore } from "@reduxjs/toolkit";
 import { saveCart } from "../utils/localStorage";
-import cartReducer from "./cartSlice.tsx";
+import cartReducer from "./cartSlice";
 import uiReducer from "./uiSlice";
 
 const store = configureStore({
