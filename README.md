@@ -37,10 +37,6 @@ Users should be able to:
 
 ![](./screenshot.png)
 
-### Links
-
-[Live Site URL](https://audiophile-ecommerce-mbart13.vercel.app/)
-
 ### Setup
 
 To run this project locally:
