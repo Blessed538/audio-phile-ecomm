@@ -9,7 +9,7 @@ import ModalContextProvider from "../context/ModalContext";
 import CartModal from "../components/organisms/CartModal";
 import store from "../store";
 import Overlay from "../components/atoms/Overlay";
-import theme from "../theme";
+import theme from "../style/theme";
 import CheckoutModal from "../components/organisms/CheckoutModal";
 
 export default function App({ Component, pageProps }: AppProps) {
